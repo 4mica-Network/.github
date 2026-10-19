@@ -25,9 +25,7 @@ Start with the [Quickstart](https://docs.4mica.io/getting-started/quickstart), b
 
 - [4mica](https://github.com/4mica-Network/4mica) – monorepo with the web platform, docs, SDKs, CLI, and examples
 - [facilitator-4mica](https://github.com/4mica-Network/facilitator-4mica) – x402 facilitator that runs the 4Mica credit flow
-- [4mica-integration-demo](https://github.com/4mica-Network/4mica-integration-demo) – pay-per-segment video streaming paid with x402 and 4Mica
-- [4mica-polygon-demo](https://github.com/4mica-Network/4mica-polygon-demo) – 4Mica payments demo on Polygon
-
+  
 ## Resources
 
 [Website](https://4mica.io) • [Docs](https://docs.4mica.io) • [Changelog](https://docs.4mica.io/updates/changelogs) • [X](https://x.com/0x4Mica) • [LinkedIn](https://www.linkedin.com/company/4mica)
