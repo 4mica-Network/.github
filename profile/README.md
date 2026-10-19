@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://4mica.io"><img src="https://4mica.io/assets/logo_transparent.png" alt="4Mica" width="200"></a>
-</p>
+<a href="https://4mica.io"><img src="/profile/banner.png" alt="4Mica – the payment infrastructure for the agentic economy"></a>
 
 # Welcome to 4Mica
 
